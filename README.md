@@ -23,10 +23,11 @@ Investigar os fatores que influenciam a autonomia elétrica dos veículos altern
    - Padrões entre características técnicas e autonomia elétrica
 
 ## Tecnologias Utilizadas
-
+numpy
 pandas  
 matplotlib  
-seaborn  
+seaborn
+sklearn
 
 ## Execução
 
@@ -37,14 +38,13 @@ O notebook pode ser executado em qualquer ambiente Jupyter ou Google Colab e con
 analise_autonomia_veiculos/  
 ├── notebooks/  
 │   └── Analise_autonomia_veiculos.ipynb  
-├── README.md  
-├── requirements.txt  
+├── README.md    
 └── LICENSE
 
 ## Autor
 
 Heitor Tonet  
-Engenheiro de Controle e Automação e Cientista de Dados com foco em análises técnicas, inteligência artificial e mobilidade sustentável.
+Engenheiro de Controle e Automação e Cientista de Dados, com foco em aplicações industriais, mobilidade inteligente e modelagem preditiva aplicada ao mundo físico.
 
 ## Licença
 
